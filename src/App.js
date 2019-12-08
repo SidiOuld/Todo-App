@@ -1,6 +1,6 @@
 import React from 'react';
-import TodoForm from './components/TodoForm';
-import "./styles.css"
+import TodoForm from './Components/TodoForm';
+import "./index.css"
 
 class App extends React.Component {
   // you will need a place to store your state in this component.
